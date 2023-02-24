@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2023-02-22T14:41:05.026Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="eHPoQvTMTyszZ_6npzcH" version="20.8.22" type="github">
+  <diagram name="Page-1" id="XLRbHGVOJMDCOBzmMHMC">
+    <mxGraphModel dx="1363" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9p2Np7P5mC5DKwo4CB9_-1" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="115" y="480" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9p2Np7P5mC5DKwo4CB9_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="9p2Np7P5mC5DKwo4CB9_-3" target="9p2Np7P5mC5DKwo4CB9_-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9p2Np7P5mC5DKwo4CB9_-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="115" y="20" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FxTzlJbpQdVVmBXQa4_C-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9p2Np7P5mC5DKwo4CB9_-5" target="FxTzlJbpQdVVmBXQa4_C-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9p2Np7P5mC5DKwo4CB9_-5" value="Client sign in ke aplikasi" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="130" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4mbhzjeX1JaCv4YV5yW5-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9p2Np7P5mC5DKwo4CB9_-7" target="9p2Np7P5mC5DKwo4CB9_-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9p2Np7P5mC5DKwo4CB9_-7" value="data brace beserta data&lt;br&gt;progress pemakaian brace" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="57.5" y="370" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FxTzlJbpQdVVmBXQa4_C-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FxTzlJbpQdVVmBXQa4_C-1" target="9p2Np7P5mC5DKwo4CB9_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FxTzlJbpQdVVmBXQa4_C-1" value="Client membuka tab&lt;br&gt;brace" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="200" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
