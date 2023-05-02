@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-04-30T16:07:32.868Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="AWr9Aax9ZnXlrui2uE_-" version="21.2.1" type="device" pages="2">
+<mxfile host="Electron" modified="2023-05-02T06:05:28.170Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="GVL4t9PY82wjbYxC1Sag" version="21.2.1" type="device" pages="2">
   <diagram name="Online" id="PInLg-fRG8JOVK7NSta_">
-    <mxGraphModel dx="2042" dy="2180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1070" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,10 +70,10 @@
         <mxCell id="q5Jlv9dxOkdIS9fNMbRv-1" value="detail sesi latihan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;fontFamily=Times New Roman;" parent="LFz9WwMgTEt4GRY9JsuO-20" vertex="1">
           <mxGeometry x="30" y="530" width="160" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="dPo3ieTppHIDX0Mn7xpV-1" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 17px;&quot;&gt;Ya&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=17;fontFamily=Times New Roman;" vertex="1" parent="LFz9WwMgTEt4GRY9JsuO-20">
+        <mxCell id="dPo3ieTppHIDX0Mn7xpV-1" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 17px;&quot;&gt;Ya&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=17;fontFamily=Times New Roman;" parent="LFz9WwMgTEt4GRY9JsuO-20" vertex="1">
           <mxGeometry x="185" y="325" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dPo3ieTppHIDX0Mn7xpV-2" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 17px;&quot;&gt;Tidak&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=17;fontFamily=Times New Roman;" vertex="1" parent="LFz9WwMgTEt4GRY9JsuO-20">
+        <mxCell id="dPo3ieTppHIDX0Mn7xpV-2" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 17px;&quot;&gt;Tidak&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=17;fontFamily=Times New Roman;" parent="LFz9WwMgTEt4GRY9JsuO-20" vertex="1">
           <mxGeometry x="120" y="420" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LFz9WwMgTEt4GRY9JsuO-39" value="(a)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
