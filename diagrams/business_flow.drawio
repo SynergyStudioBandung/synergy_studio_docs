@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-05-05T13:14:16.555Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="Ye2Ono-WZmPB7e32qBrc" version="21.2.1" type="device">
+<mxfile host="Electron" modified="2023-05-11T08:38:46.482Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="RhU21nXh-e1QcAM5q00B" version="21.2.8" type="device">
   <diagram name="Page-1" id="Zw0_wTbz2aSK7P8K6VF9">
-    <mxGraphModel dx="3458" dy="4187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1060" dy="2462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -441,6 +441,12 @@
         </mxCell>
         <mxCell id="ZlKAEYI-QnfflHVuoLYH-171" value="&lt;font color=&quot;#000000&quot;&gt;Belum&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=17;fontFamily=Times New Roman;" parent="ZlKAEYI-QnfflHVuoLYH-15" vertex="1">
           <mxGeometry x="1310" y="733" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0hXf3fvxXeJV25-X3d-o-1" value="&lt;font color=&quot;#000000&quot;&gt;Ya&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=17;fontFamily=Times New Roman;" vertex="1" parent="ZlKAEYI-QnfflHVuoLYH-15">
+          <mxGeometry x="1800" y="194.25" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0hXf3fvxXeJV25-X3d-o-2" value="&lt;font color=&quot;#000000&quot;&gt;Tidak&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=17;fontFamily=Times New Roman;" vertex="1" parent="ZlKAEYI-QnfflHVuoLYH-15">
+          <mxGeometry x="1740" y="290" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZlKAEYI-QnfflHVuoLYH-32" value="Proses Pembuatan Brace" style="swimlane;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="570" y="-590" width="220" height="700" as="geometry" />
